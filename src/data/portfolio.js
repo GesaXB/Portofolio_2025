@@ -14,7 +14,7 @@ export const portfolioData = {
     email: "gesavlop@gmail.com", // Ganti dengan email Anda
     phone: "+62 822 4127 9426", // Ganti dengan nomor Anda
     location: "Purwokerto, Banyumas", // Ganti dengan lokasi Anda
-    bio: "Passionate frontend developer with 2+ years of experience in creating modern, responsive web applications. I love turning ideas into beautiful, functional websites.",
+    bio: "Passionate fullstack developer with 2+ years of experience building modern, responsive web applications from front to back. I thrive on turning ideas into clean, functional, and scalable digital solutions — whether it’s crafting sleek UIs or building robust backend systems.",
   },
   skills: [
     { name: "React", icon: FaReact, level: 85 },
